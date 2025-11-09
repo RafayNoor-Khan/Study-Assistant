@@ -29,7 +29,7 @@ Deployed online for interactive access by students.
 Try it online: [Study Assistant Chatbot](https://noorkhan.pythonanywhere.com/)
 
 ## 📹 Demo Video
-Watch the chatbot in action: [Demo Video][(YOUR_VIDEO_LINK_HERE)](https://drive.google.com/file/d/1yip2HQS0EQmFJjB9G9e-MU1AMuL8gMyx/view?usp=sharing)
+Watch the chatbot in action: [Demo Video][(demo here)](https://drive.google.com/file/d/1yip2HQS0EQmFJjB9G9e-MU1AMuL8gMyx/view?usp=sharing)
 
 ---
 
